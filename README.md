@@ -15,4 +15,4 @@
 - Projeto JavaScript Unit Tests
 - [Zoo Functions](./10.zoo-functions/)
 - Projeto Shopping Cart
-- Projeto Jest
+- [Jest](./12.jest/)
