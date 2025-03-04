@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="pt-br">
+<html lang="en">
 <head>
 	<meta charset="UTF-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -12,9 +12,20 @@
 	<h1>Project Meme Generator</h1>
 
 	<div class="inputs-container">
-		<input id="text-input" type="text" maxlength="60" onkeydown="textShow()" onkeyup="textShow()">
-		<input id="meme-insert" type="file" onchange="memeImage()">
+		<div class="inputs">
+			<label for="text-input">Add your text:
+				<input id="text-input" type="text" maxlength="60" onkeydown="textShow()" onkeyup="textShow()">
+			</label>
+		</div>
+
+		<div class="inputs">
+			<label for="image-input">Add your image:
+				<input id="image-input" type="file" accept="image/*" onchange="memeImage()">
+			</label>
+		</div>
 	</div>
+	</div>
+
 
 	<div id="meme-image-container">
 		<p id="meme-text"></p>
@@ -28,7 +39,7 @@
 	</div>
 
 	<div class="meme-gallery">
-		<p class="gallery-title">Meme Gallery</p>
+		<p class="gallery-title">Select a classic meme from gallery:</p>
 		<div class="images-container">
 			<img id="meme-1" class="meme-option" src="imgs/meme1.png" alt="meme1" onclick="selectMeme(id)" />
 			<img id="meme-2" class="meme-option" src="imgs/meme2.png" alt="meme2" onclick="selectMeme(id)" />

@@ -2,6 +2,10 @@ body {
   text-align: center;
 }
 
+h1 {
+  margin: 50px;
+}
+
 #meme-image-container {
   width: 500px;
   height: 500px;
@@ -9,7 +13,7 @@ body {
   position: relative;
   background-color: white;
   border: 1px black solid;
-  margin: 50px;
+  margin: 20px;
 }
 
 #meme-image-container img {
@@ -62,8 +66,10 @@ body {
   margin: 10px;
 }
 
-#inputs {
-  margin: 10px;
+.inputs {
+  margin: 20px;
+  font-size: 20px;
+  font-weight: bold;
 }
 
 h1 {
