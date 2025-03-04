@@ -33,22 +33,7 @@ function borderGreen() {
 
 BUTTON_GREEN.addEventListener('click', borderGreen);
 
-function selectMeme1() {
-  const buttonMeme1 = document.getElementById('meme-1');
-  IMAGE_SHOW_INPUT.src = buttonMeme1.src;
-}
-
-function selectMeme2() {
-  const buttonMeme2 = document.getElementById('meme-2');
-  IMAGE_SHOW_INPUT.src = buttonMeme2.src;
-}
-
-function selectMeme3() {
-  const buttonMeme3 = document.getElementById('meme-3');
-  IMAGE_SHOW_INPUT.src = buttonMeme3.src;
-}
-
-function selectMeme4() {
-  const buttonMeme4 = document.getElementById('meme-4');
-  IMAGE_SHOW_INPUT.src = buttonMeme4.src;
+function selectMeme(id) {
+  const buttonMeme = document.getElementById(id);
+  IMAGE_SHOW_INPUT.src = buttonMeme.src;
 }

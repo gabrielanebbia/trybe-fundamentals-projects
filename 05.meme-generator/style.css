@@ -9,6 +9,7 @@ body {
   position: relative;
   background-color: white;
   border: 1px black solid;
+  margin: 50px;
 }
 
 #meme-image-container img {
@@ -35,24 +36,21 @@ body {
   background-color: green;
 }
 
-#meme-1 {
-  width: 100px;
-  height: 100px;
+.images-container {
+  border: 5px dotted black;
+  margin: 0 450px;
 }
 
-#meme-2 {
-  width: 100px;
-  height: 100px;
+.gallery-title {
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 5px;
 }
 
-#meme-3 {
+.meme-option {
   width: 100px;
   height: 100px;
-}
-
-#meme-4 {
-  width: 100px;
-  height: 100px;
+  margin: 10px;
 }
 
 #images {
