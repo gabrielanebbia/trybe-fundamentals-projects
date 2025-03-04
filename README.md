@@ -4,10 +4,10 @@
 
 #### Módulo 1 - Fundamentos do Desenvolvimento Web
 
-- [Lessons Learned](./1.lessons-learned/)
-- [Playground Functions](./2.playground-functions/)
-- [Pixels Art](./3.pixel-art/)
-- [Todo List](./4.todo-list/)
+- [Lessons Learned](./01.lessons-learned/)
+- [Playground Functions](./02.playground-functions/)
+- [Pixels Art](./03.pixel-art/)
+- [Todo List](./04.todo-list/)
 - Projeto (Bônus) Meme Generator
 - Projeto (Bônus) Color Guess
 - Projeto (Bônus) Mistery Letter
