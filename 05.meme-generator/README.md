@@ -1,6 +1,6 @@
 # Projeto Meme Generator
 
-[Objetivos do projeto](#objetivos-do-projeto) | [Tecnologias utilizadas](#tecnologias-utilizadas) | [Habilidades desenvolvidas](#habilidades-desenvolvidas) | [Implementações](#implementações)
+[Objetivos do projeto](#objetivos-do-projeto) | [Tecnologias utilizadas](#tecnologias-utilizadas) | [Habilidades desenvolvidas](#habilidades-desenvolvidas) | [Implementações](#implementações) | [Resultado](#resultado)
 
 ---
 
@@ -38,3 +38,7 @@ Nesse projeto foi desenvolvida uma página web para a criação de memes, onde �
    `Requisitos bônus:`
         6. Permita a quem usa customizar o meme escolhido acrescentando a ele uma de três bordas. A página deve ter três botões, que ao serem clicados devem cada um trocar a própria borda ao redor do container
         7. Tenha um conjunto de quatro imagens pré prontas de memes famosos para o usuário escolher. Mostre miniaturas das imagens e, mediante clique do usuário, essa imagem deve aparecer dentro da moldura do elemento de container
+
+#### Resultado
+
+![resultado](./imgs/result.png)
