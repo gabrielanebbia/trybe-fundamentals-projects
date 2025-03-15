@@ -10,7 +10,7 @@
 - [Todo List](./04.todo-list/)
 - (Bônus) [Meme Generator](05.meme-generator/)
 - (Bônus) [Color Guess](06.color-guess/)
-- Projeto (Bônus) Mistery Letter
+- (Bônus) [Mistery Letter](07.mistery-letter/)
 - Projeto Trybewarts
 - Projeto JavaScript Unit Tests
 - [Zoo Functions](./10.zoo-functions/)
