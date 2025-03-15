@@ -4,15 +4,15 @@
 
 #### Módulo 1 - Fundamentos do Desenvolvimento Web
 
-- Projeto Lessons Learned
-- Projeto Playground Functions
-- Projeto Pixels Art
-- Projeto Todo List
-- Projeto (Bônus) Meme Generator
-- Projeto (Bônus) Color Guess
+- [Lessons Learned](./01.lessons-learned/)
+- [Playground Functions](./02.playground-functions/)
+- [Pixels Art](./03.pixel-art/)
+- [Todo List](./04.todo-list/)
+- (Bônus) [Meme Generator](05.meme-generator/)
+- (Bônus) [Color Guess](06.color-guess/)
 - Projeto (Bônus) Mistery Letter
 - Projeto Trybewarts
 - Projeto JavaScript Unit Tests
-- Projeto Zoo Functions
+- [Zoo Functions](./10.zoo-functions/)
 - Projeto Shopping Cart
-- Projeto Jest
+- [Jest](./12.jest/)
