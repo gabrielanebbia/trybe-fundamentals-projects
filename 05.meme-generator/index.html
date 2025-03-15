@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Project Meme Generator</title>
+	<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+	<h1>Project Meme Generator</h1>
+
+	<div class="inputs-container">
+		<div class="inputs">
+			<label for="text-input">Add your text:
+				<input id="text-input" type="text" maxlength="60" onkeydown="textShow()" onkeyup="textShow()">
+			</label>
+		</div>
+
+		<div class="inputs">
+			<label for="image-input">Add your image:
+				<input id="image-input" type="file" accept="image/*" onchange="memeImage()">
+			</label>
+		</div>
+	</div>
+	</div>
+
+
+	<div id="meme-image-container">
+		<p id="meme-text"></p>
+		<img id="meme-image" src="./imgs/default.png" alt="yours meme image"/>
+	</div>
+
+	<div class=buttons-container>
+		<p class="gallery-title">Select a border theme:</p>
+		<button id="fire">Fire</button>
+		<button id="water">Water</button>
+		<button id="earth">Earth</button>  
+	</div>
+
+	<div class="meme-gallery">
+		<p class="gallery-title">Select a classic meme from gallery:</p>
+		<div class="images-container">
+			<img id="meme-1" class="meme-option" src="imgs/meme1.png" alt="meme1" onclick="selectMeme(id)" />
+			<img id="meme-2" class="meme-option" src="imgs/meme2.png" alt="meme2" onclick="selectMeme(id)" />
+			<img id="meme-3" class="meme-option" src="imgs/meme3.png" alt="meme3" onclick="selectMeme(id)" />
+			<img id="meme-4" class="meme-option" src="imgs/meme4.png" alt="meme4" onclick="selectMeme(id)" />
+		</div>
+	</div>
+
+<script src="script.js"></script>
+
+</body>
+</html>
