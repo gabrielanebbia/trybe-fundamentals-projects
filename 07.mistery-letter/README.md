@@ -19,3 +19,9 @@ Nesse projeto foi desenvolvida um jogo de adivinhação de cartas.
 ---
 
 #### Implementações
+
+---
+
+#### Resultado
+
+---
