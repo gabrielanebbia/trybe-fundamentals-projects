@@ -11,7 +11,7 @@
 - (Bônus) [Meme Generator](05.meme-generator/)
 - (Bônus) [Color Guess](06.color-guess/)
 - (Bônus) [Mistery Letter](07.mistery-letter/)
-- Projeto Trybewarts
+- [Trybewarts](08.trybewarts/)
 - Projeto JavaScript Unit Tests
 - [Zoo Functions](./10.zoo-functions/)
 - Projeto Shopping Cart
