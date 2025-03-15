@@ -9,7 +9,7 @@
 - [Pixels Art](./03.pixel-art/)
 - [Todo List](./04.todo-list/)
 - (Bônus) [Meme Generator](05.meme-generator/)
-- Projeto (Bônus) Color Guess
+- (Bônus) [Color Guess](06.color-guess/)
 - Projeto (Bônus) Mistery Letter
 - Projeto Trybewarts
 - Projeto JavaScript Unit Tests
